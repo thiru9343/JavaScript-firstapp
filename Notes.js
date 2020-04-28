@@ -35,4 +35,32 @@ How we can write JS code and execute:
 1.	Any browser- right click and inspect
 2.	Open terminal and type ‘node’(install node before you do) then, write&excute
 
+-------------------------------
+string+string = string
+string+number = string
+number+string = string
+number+number = number
 
+
+----------------------------------
+= assignment
+== compare the value
+=== compare the value and datatype
+
+------------------------------
+Practice
+four.JS
+* If in slice only digit is provided this will remove how many
+In Case 2 value it will pick from given range
+
+
+
+Slice(start,end)
+>if first value is -ve than output is null
+>if first positive and second -ve and remove from both direction
+Substring(start,end)
+> -ve value is ignored
+Substr(start,length)
+> if only one value and that is -ve it start from backward
+
+---------------------------
