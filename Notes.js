@@ -64,3 +64,8 @@ Substr(start,length)
 > if only one value and that is -ve it start from backward
 
 ---------------------------
+Push => always add in the end of the Array
+Pop => always take out form the end of Array
+shift=> always take out from the begining of Array
+unshift => always add at the begining of Array
+----------------------------
