@@ -31,9 +31,10 @@ let = we cannot redeclare, but we can reassign
 const = we cannot redeclare nor reassign
 
 
-How we can write JS code and execute:
-1.	Any browser- right click and inspect
-2.	Open terminal and type ‘node’(install node before you do) then, write&excute
+How we can write and execute JS code:
+1.	Any browser- right click and inspect- console
+2.	Open terminal and type ‘node’(install nodejs before you do) then, write&excute
+3.  File execute command: node anyFile.js 
 
 -------------------------------
 string+string = string
